@@ -1,0 +1,7 @@
+ERROR - 2020-12-07 04:22:37 --> Could not find the language line "form_validation_is_unique"
+ERROR - 2020-12-07 04:22:37 --> Could not find the language line "form_validation_is_unique"
+ERROR - 2020-12-07 04:23:27 --> Could not find the language line "form_validation_is_unique"
+ERROR - 2020-12-07 04:23:47 --> Could not find the language line "form_validation_is_unique"
+ERROR - 2020-12-07 04:24:13 --> Could not find the language line "form_validation_is_unique"
+ERROR - 2020-12-07 04:32:33 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2020-12-07 04:33:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73

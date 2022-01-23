@@ -1,0 +1,60 @@
+ERROR - 2020-11-16 14:34:00 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 and u.role_id = 4 AND  (u.name LIKE '%' OR um.nisn LIKE '%')
+ERROR - 2020-11-16 14:34:00 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 199
+ERROR - 2020-11-16 14:36:01 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 and u.role_id = 4 AND  (u.name LIKE '%' OR um.nisn LIKE '%')
+ERROR - 2020-11-16 14:36:01 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 199
+ERROR - 2020-11-16 14:36:04 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 and u.role_id = 4 AND  (u.name LIKE '%' OR um.nisn LIKE '%')
+ERROR - 2020-11-16 14:36:04 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 199
+ERROR - 2020-11-16 14:36:16 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:36:16 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242
+ERROR - 2020-11-16 14:42:12 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 and u.role_id = 4 AND  (u.name LIKE '%' OR um.nisn LIKE '%')
+ERROR - 2020-11-16 14:42:12 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 199
+ERROR - 2020-11-16 14:42:17 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:42:17 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242
+ERROR - 2020-11-16 14:42:19 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:42:19 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242
+ERROR - 2020-11-16 14:44:17 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 and u.role_id = 4 AND  (u.name LIKE '%' OR um.nisn LIKE '%')
+ERROR - 2020-11-16 14:44:17 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 199
+ERROR - 2020-11-16 14:44:21 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:44:21 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242
+ERROR - 2020-11-16 14:47:02 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:47:02 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242
+ERROR - 2020-11-16 14:47:03 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:47:03 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242
+ERROR - 2020-11-16 14:47:06 --> Query error: Table 'e-school.user_member' doesn't exist - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_lahir, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-11-16 14:47:06 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\UserModel.php 242

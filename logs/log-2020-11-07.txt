@@ -1,0 +1,6 @@
+ERROR - 2020-11-07 05:08:02 --> Could not find the language line "form_validation_is_unique"
+ERROR - 2020-11-07 05:25:21 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2020-11-07 05:29:42 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2020-11-07 05:29:58 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2020-11-07 05:43:24 --> Path ke gambar salah.
+ERROR - 2020-11-07 05:43:24 --> Path ke gambar salah.

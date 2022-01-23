@@ -1,0 +1,2 @@
+ERROR - 2020-12-21 17:03:19 --> Path ke gambar salah.
+ERROR - 2020-12-21 17:03:21 --> Path ke gambar salah.

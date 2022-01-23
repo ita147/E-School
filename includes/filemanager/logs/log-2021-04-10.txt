@@ -1,0 +1,4 @@
+ERROR - 2021-04-10 06:10:20 --> Path ke gambar salah.
+ERROR - 2021-04-10 06:10:23 --> Path ke gambar salah.
+ERROR - 2021-04-10 06:13:21 --> Path ke gambar salah.
+ERROR - 2021-04-10 06:13:22 --> Path ke gambar salah.

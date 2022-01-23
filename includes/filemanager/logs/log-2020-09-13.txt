@@ -1,0 +1,61 @@
+ERROR - 2020-09-13 16:54:32 --> Severity: Warning --> scandir(../../upload/,../../upload/): The system cannot find the file specified. (code: 2) C:\xampp\htdocs\e-school\includes\filemanager\include\utils.php 473
+ERROR - 2020-09-13 16:54:32 --> Severity: Warning --> scandir(../../upload/): failed to open dir: No such file or directory C:\xampp\htdocs\e-school\includes\filemanager\include\utils.php 473
+ERROR - 2020-09-13 16:54:32 --> Severity: Warning --> scandir(): (errno 2): No such file or directory C:\xampp\htdocs\e-school\includes\filemanager\include\utils.php 473
+ERROR - 2020-09-13 16:54:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\includes\filemanager\include\utils.php 477
+ERROR - 2020-09-13 16:54:32 --> Severity: Warning --> scandir(../../upload/,../../upload/): The system cannot find the file specified. (code: 2) C:\xampp\htdocs\e-school\includes\filemanager\dialog.php 612
+ERROR - 2020-09-13 16:54:32 --> Severity: Warning --> scandir(../../upload/): failed to open dir: No such file or directory C:\xampp\htdocs\e-school\includes\filemanager\dialog.php 612
+ERROR - 2020-09-13 16:54:33 --> Severity: Warning --> scandir(): (errno 2): No such file or directory C:\xampp\htdocs\e-school\includes\filemanager\dialog.php 612
+ERROR - 2020-09-13 16:54:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\includes\filemanager\dialog.php 624
+ERROR - 2020-09-13 16:54:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\includes\filemanager\dialog.php 1234
+ERROR - 2020-09-13 18:00:39 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:00:40 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:00:48 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:00:48 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:01:11 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:01:12 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:01:17 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:01:18 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:01:43 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:01:43 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:39 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:40 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:41 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:41 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:42 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:43 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:46 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:47 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:49 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:50 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:56 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:56 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:58 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:04:58 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:05:00 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:05:00 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:06:57 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:06:58 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:13 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:13 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:24 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:25 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:27 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:27 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:29 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:29 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:34 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:34 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:36 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:37 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:39 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:39 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:45 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:07:45 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:20 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:21 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:23 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:24 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:38 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:39 --> Path ke gambar salah.

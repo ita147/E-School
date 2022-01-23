@@ -1,0 +1,6 @@
+ERROR - 2020-09-26 06:16:37 --> Path ke gambar salah.
+ERROR - 2020-09-26 06:16:37 --> Path ke gambar salah.
+ERROR - 2020-09-26 06:16:38 --> Path ke gambar salah.
+ERROR - 2020-09-26 06:16:38 --> Path ke gambar salah.
+ERROR - 2020-09-26 06:31:24 --> Path ke gambar salah.
+ERROR - 2020-09-26 06:31:24 --> Path ke gambar salah.

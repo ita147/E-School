@@ -1,0 +1,151 @@
+ERROR - 2020-09-14 02:39:00 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:42:05 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:45:32 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:46:42 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:47:41 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:47:42 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:47:43 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:47:44 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:47:59 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:49:12 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:49:13 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:49:20 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:49:41 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:50:17 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:50:30 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:57:21 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 02:58:07 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:10:26 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:13:51 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 46
+ERROR - 2020-09-14 03:13:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 46
+ERROR - 2020-09-14 03:13:51 --> Severity: Notice --> Undefined variable: tags C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 54
+ERROR - 2020-09-14 03:13:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 54
+ERROR - 2020-09-14 03:14:17 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 46
+ERROR - 2020-09-14 03:14:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 46
+ERROR - 2020-09-14 03:14:17 --> Severity: Notice --> Undefined variable: tags C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 54
+ERROR - 2020-09-14 03:14:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 54
+ERROR - 2020-09-14 03:14:43 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 44
+ERROR - 2020-09-14 03:14:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 44
+ERROR - 2020-09-14 03:14:43 --> Severity: Notice --> Undefined variable: tags C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 50
+ERROR - 2020-09-14 03:14:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\blog\index.php 50
+ERROR - 2020-09-14 03:15:14 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:12 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:13 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:15 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:15 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:44 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:44 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:44 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:16:44 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:17:41 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:17:41 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\e-school\application\views\frontend\blog\detail.php 10
+ERROR - 2020-09-14 03:17:41 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:18:17 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:18:17 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:18:43 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:18:43 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:22:11 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\e-school\application\views\frontend\layout\header.php 12
+ERROR - 2020-09-14 03:31:40 --> Severity: Notice --> Undefined index: featured_image C:\xampp\htdocs\e-school\application\views\frontend\pages\visi.php 3
+ERROR - 2020-09-14 03:32:36 --> Severity: Notice --> Undefined index: sejarah C:\xampp\htdocs\e-school\application\views\frontend\pages\history.php 22
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:18 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:34:23 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:35:01 --> Path ke gambar salah.
+ERROR - 2020-09-14 03:41:47 --> Query error: Unknown column 'um.sekolah' in 'field list' - Invalid query: SELECT u.*, um.sekolah, um.status, um.student_phone, um.kelas_id
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 AND role_id = 4 AND (um.status <> 2 OR um.status <> 3)  AND u.name LIKE '%' ORDER BY u.name ASC LIMIT 0, 20
+ERROR - 2020-09-14 03:41:52 --> Query error: Table 'e-school.master_tahun_ajaran' doesn't exist - Invalid query: SELECT u.*, um.sekolah, um.status, um.student_phone, um.parent_phone, um.kelas_id, mt.name as tahun,
+                um.agreement_name
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                INNER JOIN master_tahun_ajaran mt ON um.tahun_id = mt.id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-09-14 12:12:08 --> Query error: Table 'e-school.master_tahun_ajaran' doesn't exist - Invalid query: SELECT *
+                FROM master_tahun_ajaran WHERE deleted = 0
+ERROR - 2020-09-14 15:05:22 --> Query error: Table 'e-school.master_tahun_ajaran' doesn't exist - Invalid query: SELECT *
+                FROM master_tahun_ajaran WHERE deleted = 0
+ERROR - 2020-09-14 15:06:05 --> Severity: Notice --> Undefined variable: script_captcha C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 16
+ERROR - 2020-09-14 15:06:05 --> Severity: Notice --> Undefined variable: tahun C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 35
+ERROR - 2020-09-14 15:06:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 35
+ERROR - 2020-09-14 15:06:05 --> Severity: Notice --> Undefined variable: kelas C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 82
+ERROR - 2020-09-14 15:06:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 82
+ERROR - 2020-09-14 15:06:05 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 137
+ERROR - 2020-09-14 15:06:53 --> Severity: Notice --> Undefined variable: slider C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 25
+ERROR - 2020-09-14 15:06:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 25
+ERROR - 2020-09-14 15:06:53 --> Severity: Notice --> Undefined variable: slider C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 32
+ERROR - 2020-09-14 15:06:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\pages\registrasi.php 32
+ERROR - 2020-09-14 16:38:33 --> Could not find the language line "form_validation_required"
+ERROR - 2020-09-14 16:39:22 --> Could not find the language line "form_validation_required"
+ERROR - 2020-09-14 17:04:31 --> Query error: Table 'e-school.master_tahun_ajaran' doesn't exist - Invalid query: SELECT u.*, um.sekolah, um.status, um.student_phone, um.parent_phone, um.kelas_id, mt.name as tahun,
+                um.agreement_name
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                INNER JOIN master_tahun_ajaran mt ON um.tahun_id = mt.id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-09-14 17:07:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+  ' at line 2 - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-09-14 17:07:36 --> Severity: Notice --> Undefined index: parent_phone C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 57
+ERROR - 2020-09-14 17:07:36 --> Severity: Notice --> Undefined index: sekolah C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 58
+ERROR - 2020-09-14 17:07:36 --> Severity: Notice --> Undefined index: kelas C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 60
+ERROR - 2020-09-14 17:07:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 60
+ERROR - 2020-09-14 17:07:36 --> Severity: Notice --> Undefined index: tahun C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 66
+ERROR - 2020-09-14 17:07:36 --> Severity: Notice --> Undefined index: agreement_name C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 69
+ERROR - 2020-09-14 17:08:13 --> Query error: Unknown column 'um.tanggal_hari' in 'field list' - Invalid query: SELECT u.*, um.nisn, um.status, um.student_phone, um.alamat, um.tanggal_hari, um.tempat_lahir 
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE role_id = 4 AND (um.status = 2 OR um.status = 3)
+ERROR - 2020-09-14 17:08:31 --> Severity: Notice --> Undefined index: parent_phone C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 57
+ERROR - 2020-09-14 17:08:31 --> Severity: Notice --> Undefined index: sekolah C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 58
+ERROR - 2020-09-14 17:08:31 --> Severity: Notice --> Undefined index: kelas C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 60
+ERROR - 2020-09-14 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 60
+ERROR - 2020-09-14 17:08:31 --> Severity: Notice --> Undefined index: tahun C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 66
+ERROR - 2020-09-14 17:08:31 --> Severity: Notice --> Undefined index: agreement_name C:\xampp\htdocs\e-school\application\views\backend\member\approve\index.php 69
+ERROR - 2020-09-14 17:12:01 --> Severity: Notice --> Undefined index: kelas_id C:\xampp\htdocs\e-school\application\models\UserModel.php 146
+ERROR - 2020-09-14 17:12:04 --> Query error: Unknown column 'um.sekolah' in 'field list' - Invalid query: SELECT u.*, um.sekolah, um.status, um.student_phone, um.kelas_id
+                FROM user u 
+                INNER JOIN user_member um ON u.id = um.user_id
+                WHERE u.deleted = 0 AND role_id = 4 AND (um.status <> 2 OR um.status <> 3)  AND u.name LIKE '%' ORDER BY u.name ASC LIMIT 0, 20

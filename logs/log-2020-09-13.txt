@@ -1,0 +1,37 @@
+ERROR - 2020-09-13 15:37:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-09-13 15:37:10 --> Unable to connect to the database
+ERROR - 2020-09-13 15:37:25 --> Query error: Table 'e-school.home_price' doesn't exist - Invalid query: SELECT * FROM home_price WHERE id = 1
+ERROR - 2020-09-13 15:38:14 --> Path ke gambar salah.
+ERROR - 2020-09-13 15:38:14 --> Path ke gambar salah.
+ERROR - 2020-09-13 15:38:14 --> Severity: Notice --> Undefined variable: harga C:\xampp\htdocs\e-school\application\views\frontend\home\index.php 108
+ERROR - 2020-09-13 15:38:14 --> Severity: Notice --> Undefined variable: harga C:\xampp\htdocs\e-school\application\views\frontend\home\index.php 111
+ERROR - 2020-09-13 15:38:14 --> Severity: Notice --> Undefined variable: testimoni C:\xampp\htdocs\e-school\application\views\frontend\home\index.php 128
+ERROR - 2020-09-13 15:38:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\home\index.php 128
+ERROR - 2020-09-13 15:38:14 --> Severity: Notice --> Undefined variable: blog C:\xampp\htdocs\e-school\application\views\frontend\home\index.php 164
+ERROR - 2020-09-13 15:38:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\home\index.php 164
+ERROR - 2020-09-13 15:39:41 --> Severity: Notice --> Undefined property: Home::$CI C:\xampp\htdocs\e-school\application\controllers\Home.php 47
+ERROR - 2020-09-13 15:39:41 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\e-school\application\controllers\Home.php 47
+ERROR - 2020-09-13 16:48:17 --> Path ke gambar salah.
+ERROR - 2020-09-13 16:48:17 --> Path ke gambar salah.
+ERROR - 2020-09-13 16:49:19 --> Path ke gambar salah.
+ERROR - 2020-09-13 16:49:19 --> Path ke gambar salah.
+ERROR - 2020-09-13 16:53:53 --> Path ke gambar salah.
+ERROR - 2020-09-13 16:53:53 --> Path ke gambar salah.
+ERROR - 2020-09-13 17:04:16 --> Path ke gambar salah.
+ERROR - 2020-09-13 17:04:16 --> Path ke gambar salah.
+ERROR - 2020-09-13 17:04:28 --> Path ke gambar salah.
+ERROR - 2020-09-13 17:09:52 --> Severity: Notice --> Undefined variable: slider C:\xampp\htdocs\e-school\application\views\frontend\layout\login.php 28
+ERROR - 2020-09-13 17:09:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\e-school\application\views\frontend\layout\login.php 28
+ERROR - 2020-09-13 17:38:01 --> Severity: Notice --> Undefined index: url C:\xampp\htdocs\e-school\application\views\backend\homepage\galeri\edit.php 69
+ERROR - 2020-09-13 17:57:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\e-school\application\views\frontend\layout\login.php 83
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.
+ERROR - 2020-09-13 18:08:31 --> Path ke gambar salah.

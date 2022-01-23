@@ -1,0 +1,1 @@
+ERROR - 2020-12-18 15:07:02 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73

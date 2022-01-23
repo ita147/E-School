@@ -1,0 +1,45 @@
+ERROR - 2020-12-13 14:00:12 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2020-12-13 14:07:58 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:15:57 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:26:54 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:27:14 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:28:25 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:28:39 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:28:54 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:29:08 --> Could not find the language line "form_validation_required"
+ERROR - 2020-12-13 14:31:17 --> Query error: Column 'is_publish' cannot be null - Invalid query: INSERT INTO `file_materi` (`title`, `description`, `file`, `is_publish`, `type`, `categories_id`, `upload_by`) VALUES ('Reduksi', '', 'file_2013-08-19_23_02_32_Heru_Lestiawan,_M-Kom__Bab_4-2_keamanan-komputer_KRIPTOGRAFI.ppt', NULL, 'file', '1', '11')
+ERROR - 2020-12-13 14:31:57 --> Query error: Column 'is_publish' cannot be null - Invalid query: INSERT INTO `file_materi` (`title`, `description`, `file`, `is_publish`, `type`, `categories_id`, `upload_by`) VALUES ('krytografi', '', 'Reduksi Jumlah State (3).mp4', NULL, 'video', '1', '11')
+ERROR - 2020-12-13 15:39:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:04 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:04 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:04 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:04 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:04 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:04 --> Query error: Unknown database 'e-school' - Invalid query: SELECT * FROM app_setting WHERE id = 1
+ERROR - 2020-12-13 15:39:04 --> Severity: error --> Exception: Call to a member function num_rows() on boolean C:\xampp\htdocs\e-school\application\models\GlobalModel.php 73
+ERROR - 2020-12-13 15:39:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:11 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:11 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:12 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:12 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:12 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:12 --> Severity: error --> Exception: Call to a member function real_escape_string() on boolean C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 393
+ERROR - 2020-12-13 15:39:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:17 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:17 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:17 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:17 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'e-school' C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-13 15:39:17 --> Unable to connect to the database
+ERROR - 2020-12-13 15:39:17 --> Severity: error --> Exception: Call to a member function real_escape_string() on boolean C:\xampp\htdocs\e-school\system\database\drivers\mysqli\mysqli_driver.php 393

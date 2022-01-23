@@ -1,0 +1,12 @@
+ERROR - 2020-11-16 14:36:11 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:11 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:13 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:13 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:19 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:19 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:20 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:36:20 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:42:09 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:42:09 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:42:10 --> Path ke gambar salah.
+ERROR - 2020-11-16 14:42:10 --> Path ke gambar salah.

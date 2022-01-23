@@ -1,0 +1,22 @@
+ERROR - 2022-01-14 18:06:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:06:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:06:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:06:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:06:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:06:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:06:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:06:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:06:30 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:06:30 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:06:30 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:06:30 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:12:17 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:12:17 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:12:17 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:12:17 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:12:18 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:12:18 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 63
+ERROR - 2022-01-14 18:12:18 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 18:12:18 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\e-school\application\views\backend\setting\general\index.php 73
+ERROR - 2022-01-14 20:58:52 --> Severity: Warning --> file_get_contents(http://localhost/e-school/upload/Gambar-2-Proses-Enkripsi-Dekripsi (1).png): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ C:\xampp\htdocs\e-school\application\controllers\panelsiswa\Tugas.php 98
